@@ -1,6 +1,6 @@
 """
 Patient Health Assistant System (Final)
-Author: Your Name
+Author: Chetan Vyavhare
 GitHub: https://github.com/chetanvyavhare9579
 Description:
 Hospital-side console assistant that:
